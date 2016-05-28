@@ -121,7 +121,7 @@ body>section#slide-show{
 	color:#999
 }
 .title{
-	background:#394fcc;
+	background: #262764;
 	color:#fff;
 	padding:20px 0
 }
@@ -366,7 +366,7 @@ header .dropdown-menu:before{
 	padding:0
 }
 #services{
-	background:#252525;
+	background: #1a1b3a;
 	color:#999
 }
 #services h1,#services h2,#services h3,#services h4,#services h5,#services h6{
@@ -389,7 +389,7 @@ header .dropdown-menu:before{
 	padding:20px;display:inline-block
 }
 #bottom{
-	background:#252525;
+	background: #1a1b3a;
 	color:#18a98c
 }
 #bottom h4{
@@ -455,13 +455,13 @@ ul.rss li::before{
 	content:"\f09e"
 }
 #footer{
-	background:#333;
+	background: #262764;
 	padding-top:15px;
 	padding-bottom:15px;
-	color:#666
+	color: #ffffff
 }
 #footer a{
-	color:#666
+	color:#ffffff
 }
 #footer a:hover{
 	color: #0073ff
